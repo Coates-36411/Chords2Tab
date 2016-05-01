@@ -3,10 +3,12 @@ _Chords2Tab_ (C2T) is a simple awk program to convert the fret numbers of chords
 
 ## How to run:
 As an awk program, C2T is run as:
-	awk -f Chords2Tab.awk inputFile.tsv
+
+	`awk -f Chords2Tab.awk inputFile.tsv`
 
 If you wish to save the output, it can be redirected to a file, as follows:
-	awk -f Chords2Tab.awk inputFile.tsv > outputFile.txt
+
+	`awk -f Chords2Tab.awk inputFile.tsv > outputFile.txt`
 
 ## Input format:
 The input should be formated as a _'.tsv'_ (tab separated values) file, see 'ukeChords.tsv' for an example of this.
