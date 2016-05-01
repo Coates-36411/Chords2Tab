@@ -34,4 +34,6 @@ A lowercase _'x'_ should be used when the string should not be used, and a _'0'_
 * Adding an extra column _may_ allow you to change the amount of fretting shown, if the extra column contains a higher number than those on the same row (_'C	0	0	0	3	8'_ on a four-stringed instrument may give you more frets on the ascii art than _'C 0 0 0 3'_), however this behaviour may not work as expected.
 
 ## License:
-See the file _'LICENSE'_ in the root directory for the license.
+This program is licensed under the GNU GPLv3. Please see the file _'LICENSE'_ in the root directory for the full license.
+
+Copyright (C) 2016 Coates
