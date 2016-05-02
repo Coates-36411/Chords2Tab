@@ -1,5 +1,5 @@
 # Chords2Tab
-_Chords2Tab_ (C2T) is a simple awk program to convert the fret numbers of chords on stringed instrument to a tab/ascii art layout.
+_Chords2Tab_ (C2T) is a simple awk program to convert the fret numbers of chords on stringed instrument to a tab/ascii art style layout.
 
 ## How to run:
 As an awk program, C2T is run as:
